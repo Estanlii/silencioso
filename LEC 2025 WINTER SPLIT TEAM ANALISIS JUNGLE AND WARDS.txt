@@ -1,0 +1,161 @@
+﻿LEC WINTER 2025
+
+
+INDEX:
+
+
+-Teams
+-Results Regular Phase
+      -Week detailed result
+-Play Offs
+       -Play Offs results detailed
+-Champs
+       -Picked champs
+               -Regular and Play Offs
+       -Banned champs
+                -Regular and Play Offs
+-Jungle pathings
+                -Early game openings and objectives priorities
+                -Mid game openings and objective priorities
+                -Late game openings and objective priorities
+-Wards
+        -Early game wards
+        -Mid game wards
+        -Late game wards
+      
+
+
+Teams:
+
+
+FNATIC (FNC)
+G2 Esports (G2)
+GIANTX (GX)
+Karmine Corp (KC)
+Movistar KOI (KOI)
+Rogue (RGE)
+SK Gaming (SK)
+Team BDS (BDS)
+Team Heretics (TH)
+Team Vitality (VIT)
+
+
+LEC WINTER REGULAR PHASE RESULTS
+
+
+TEAMS
+	STREAK
+	%WIN
+	FNATIC
+	8-1
+	89%
+	KC
+	6-3
+	67%
+	G2
+	6-3
+	67%
+	KOI
+	6-3
+	67%
+	VIT
+	5-4
+	56%
+	GX
+	5-4
+	56%
+	BDS
+	4-5
+	44%
+	TH
+	3-6
+	33%
+	SK
+	1-8
+	11%
+	RGE
+	1-8
+	11%
+	
+
+Legend
+
+
+  
+ CLASSIFIED TO PLAYOFFS
+  
+ELIMINATED
+
+
+
+
+
+
+
+
+WEEK 1 SATURDAY
+(patch 25.S1.1)
+
+
+
+
+
+
+TH VS ROGUE
+
+
+VIT VS BDS
+
+
+GX VS SK
+
+
+MKOI VS FNC
+
+
+KC VS G2
+
+
+
+
+WEEK 1 SUNDAY
+(patch 25.S1.1)
+
+
+
+
+TH VS SK
+
+
+RGE VS GX
+
+
+MKOI VS KC
+
+
+G2 VS BDS
+
+
+FNC VS VIT
+
+
+WEEK 1 MONDAY
+(patch 25.S1.1)
+
+
+
+
+BDS VS RGE
+
+
+TH VS FNC
+
+
+MKOI VS VIT
+
+
+G2 VS SK
+
+
+GX VS KC
+478d7781-ab3b-451d-bf07-209ce12f421c
